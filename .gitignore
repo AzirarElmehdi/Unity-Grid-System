@@ -1,0 +1,13 @@
+# Fichiers temporaires de Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Fichiers générés par Visual Studio
+*.csproj
+*.sln
+.vs/
